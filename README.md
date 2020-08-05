@@ -1,2 +1,2 @@
-# House-Prize-Prediction-Linear-Regression-
+# House Prize Prediction (Linear_Regression)
 Prediction of house prize based on house attributes
